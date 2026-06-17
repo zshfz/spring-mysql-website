@@ -1,7 +1,7 @@
 # CRUD 웹사이트 (Thymeleaf + Spring + MySQL)
 ## 1. 프로젝트 개요
 * Thymeleaf + Spring + MySQL을 웹사이트를 개발함으로써 Spring MVC 구조에 대한 감각을 기르고 로그인/회원가입, 게시글 CRUD, 댓글 등 웹 서비스의 핵심 기능을 구현
-* 배포 url : [http://zshfzwebsite-env.eba-xdz9qrxw.ap-northeast-2.elasticbeanstalk.com/](http://zshfzwebsite-env.eba-xdz9qrxw.ap-northeast-2.elasticbeanstalk.com/)
+* ~~배포 url : [http://zshfzwebsite-env.eba-xdz9qrxw.ap-northeast-2.elasticbeanstalk.com/](http://zshfzwebsite-env.eba-xdz9qrxw.ap-northeast-2.elasticbeanstalk.com/)~~ AWS 비용 이슈로 배포 중단
 
 ## 2. 브랜치
 * main : 메인 베포 브랜치, 세션 로그인 방식
